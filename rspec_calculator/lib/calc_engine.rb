@@ -1,3 +1,5 @@
+require 'rspec'
+
 class Calcengine
 
 	def add(number1, number2)
